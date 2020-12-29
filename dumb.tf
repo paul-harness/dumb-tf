@@ -1,7 +1,3 @@
-variable "foo" {
-  default = "bar"
-  }
-  
-output "myvar" {
+ output "myvar" {
   value = var.foo
   }
