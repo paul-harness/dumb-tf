@@ -1,4 +1,2 @@
-variable "foo" {
-  default = "bar"
-  }
+variable "foo" {}
  
